@@ -6,3 +6,4 @@ scikit-learn
 jupyter
 pyomo
 ipywidgets
+platform
